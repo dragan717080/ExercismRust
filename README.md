@@ -3,7 +3,7 @@
 ![stars] ![repo-size]
 
 <picture>
-    <source src="https://github.com/user-attachments/assets/48146298-c365-47e4-b677-7122241fc1b7">
+    <source srcset="https://github.com/user-attachments/assets/48146298-c365-47e4-b677-7122241fc1b7">
     <img alt="Django" width="133" height="133">
 </picture>
 
