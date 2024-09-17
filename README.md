@@ -2,10 +2,7 @@
 
 ![stars] ![repo-size]
 
-<picture>
-    <source srcset="rust8244.jpg">
-    <img alt="Rust" width="480" height="480">
-</picture>
+<img align="left" width="90" height="90" src="https://raw.githubusercontent.com/exercism/website-icons/main/tracks/rust.svg">
 </div>
 
 ### Exercism Rust Course
