@@ -11,7 +11,7 @@
 
 ### Exercism Rust Course
 
-# <a name="no-link">Collection of 98 Exercism exercises completed in Rust</a>
+# <a name="no-link">Collection of 98 solved Exercism exercises in Rust</a>
 
 # <a href="https://exercism.org/tracks/rust">Original Course</a>
 
