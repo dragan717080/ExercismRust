@@ -2,10 +2,7 @@
 
 ![stars] ![repo-size]
 
-<picture>
-    <source srcset="https://github.com/user-attachments/assets/48146298-c365-47e4-b677-7122241fc1b7">
-    <img alt="Django" width="133" height="133">
-</picture>
+<img align="left" width="90" height="90" src="https://raw.githubusercontent.com/exercism/website-icons/main/tracks/rust.svg">
 
 ### Exercism Rust Course
 
