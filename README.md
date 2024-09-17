@@ -15,4 +15,7 @@
 
 # <a href="https://exercism.org/tracks/rust">Original Course</a>
 
+[repo-size]: https://img.shields.io/github/repo-size/dragan717080/ExercismRust
+[stars]: https://img.shields.io/github/stars/dragan717080/ExercismRust
+
 </div>
