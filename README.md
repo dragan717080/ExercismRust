@@ -3,7 +3,7 @@
 ![stars] ![repo-size]
 
 <picture>
-    <source srcset="rust_logo.svg">
+    <source srcset="https://github.com/user-attachments/assets/48146298-c365-47e4-b677-7122241fc1b7">
     <img alt="Rust" width="140" height="140">
 </picture>
 
