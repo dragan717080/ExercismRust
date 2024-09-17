@@ -2,7 +2,7 @@
 
 ![stars] ![repo-size]
 
-<img width="400" height="400" alt="Rust" src="https://github.com/user-attachments/assets/a58100c5-ee6d-4be8-ab6e-18540eaac80b">
+<img width="400" height="400" alt="Rust" src="https://github.com/user-attachments/assets/5a3b3830-6e7d-48c6-b086-f3c0994baa50">
 </div>
 
 ### Exercism Rust Course
