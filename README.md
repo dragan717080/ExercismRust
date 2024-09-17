@@ -3,7 +3,7 @@
 ![stars] ![repo-size]
 
 <picture>
-    <source srcset="rust8244">
+    <source srcset="rust8244.jpg">
     <img alt="Rust" width="480" height="480">
 </picture>
 </div>
