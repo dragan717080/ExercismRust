@@ -1,0 +1,409 @@
+[package]
+name = "exercism"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+chrono = "0.4.38"
+itertools = "0.13.0"
+lazy_static = "1.5.0"
+num-bigint = "0.4.6"
+num-traits = "0.2.19"
+rand = "0.8.5"
+regex = "1.10.5"
+thiserror = "1.0.62"
+time = "0.3.36"
+unicode-segmentation = "1.11.0"
+
+[[bin]]
+name = "hello_world"
+path = "src/hello_world.rs"
+
+[[bin]]
+name = "reverse_string"
+path = "src/reverse_string.rs"
+
+[[bin]]
+name = "gigasecond"
+path = "src/gigasecond.rs"
+
+[[bin]]
+name = "clock"
+path = "src/clock.rs"
+
+[[bin]]
+name = "anagram"
+path = "src/anagram.rs"
+
+[[bin]]
+name = "armstrong_numbers"
+path = "src/armstrong_numbers.rs"
+
+[[bin]]
+name = "beer_song"
+path = "src/beer_song.rs"
+
+[[bin]]
+name = "space_age"
+path = "src/space_age.rs"
+
+[[bin]]
+name = "sublist"
+path = "src/sublist.rs"
+
+[[bin]]
+name = "difference_of_squares"
+path = "src/difference_of_squares.rs"
+
+[[bin]]
+name = "luhn"
+path = "src/luhn.rs"
+
+[[bin]]
+name = "grains"
+path = "src/grains.rs"
+
+[[bin]]
+name = "leap_year"
+path = "src/leap_year.rs"
+
+[[bin]]
+name = "minesweeper"
+path = "src/minesweeper.rs"
+
+[[bin]]
+name = "raindrops"
+path = "src/raindrops.rs"
+
+[[bin]]
+name = "allergies"
+path = "src/allergies.rs"
+
+[[bin]]
+name = "bob"
+path = "src/bob.rs"
+
+[[bin]]
+name = "acronym"
+path = "src/acronym.rs"
+
+[[bin]]
+name = "pangram"
+path = "src/pangram.rs"
+
+[[bin]]
+name = "phone_number"
+path = "src/phone_number.rs"
+
+[[bin]]
+name = "say"
+path = "src/say.rs"
+
+[[bin]]
+name = "palindrome_products"
+path = "src/palindrome_products.rs"
+
+[[bin]]
+name = "collatz"
+path = "src/collatz.rs"
+
+[[bin]]
+name = "bowling"
+path = "src/bowling.rs"
+
+[[bin]]
+name = "series"
+path = "src/series.rs"
+
+[[bin]]
+name = "simple_cipher"
+path = "src/simple_cipher.rs"
+
+[[bin]]
+name = "tournament"
+path = "src/tournament.rs"
+
+[[bin]]
+name = "high_scores"
+path = "src/high_scores.rs"
+
+[[bin]]
+name = "isogram"
+path = "src/isogram.rs"
+
+[[bin]]
+name = "nucleotide_count"
+path = "src/nucleotide_count.rs"
+
+[[bin]]
+name = "isbn"
+path = "src/isbn.rs"
+
+[[bin]]
+name = "kindergarten_garden"
+path = "src/kindergarten_garden.rs"
+
+[[bin]]
+name = "grade_school"
+path = "src/grade_school.rs"
+
+[[bin]]
+name = "sum_of_multiples"
+path = "src/sum_of_multiples.rs"
+
+[[bin]]
+name = "prime_factors"
+path = "src/prime_factors.rs"
+
+[[bin]]
+name = "poker"
+path = "src/poker.rs"
+
+[[bin]]
+name = "eliuds_eggs"
+path = "src/eliuds_eggs.rs"
+
+[[bin]]
+name = "word_count"
+path = "src/word_count.rs"
+
+[[bin]]
+name = "nth_prime"
+path = "src/nth_prime.rs"
+
+[[bin]]
+name = "triangle"
+path = "src/triangle.rs"
+
+[[bin]]
+name = "pythagorean_triplet"
+path = "src/pythagorean_triplet.rs"
+
+[[bin]]
+name = "proverb"
+path = "src/proverb.rs"
+
+[[bin]]
+name = "hamming"
+path = "src/hamming.rs"
+
+[[bin]]
+name = "pascals_triangle"
+path = "src/pascals_triangle.rs"
+
+[[bin]]
+name = "accumulate"
+path = "src/accumulate.rs"
+
+[[bin]]
+name = "variable_length_quantity"
+path = "src/variable_length_quantity.rs"
+
+[[bin]]
+name = "affine_cipher"
+path = "src/affine_cipher.rs"
+
+[[bin]]
+name = "matching_brackets"
+path = "src/matching_brackets.rs"
+
+[[bin]]
+name = "custom_set"
+path = "src/custom_set.rs"
+
+[[bin]]
+name = "wordy"
+path = "src/wordy.rs"
+
+[[bin]]
+name = "protein_translation"
+path = "src/protein_translation.rs"
+
+[[bin]]
+name = "diffie_hellman"
+path = "src/diffie_hellman.rs"
+
+[[bin]]
+name = "react"
+path = "src/react.rs"
+
+[[bin]]
+name = "decimal"
+path = "src/decimal.rs"
+
+[[bin]]
+name = "scrabble_score"
+path = "src/scrabble_score.rs"
+
+[[bin]]
+name = "rna_transcription"
+path = "src/rna_transcription.rs"
+
+[[bin]]
+name = "perfect_numbers"
+path = "src/perfect_numbers.rs"
+
+[[bin]]
+name = "binary_search"
+path = "src/binary_search.rs"
+
+[[bin]]
+name = "all_your_base"
+path = "src/all_your_base.rs"
+
+[[bin]]
+name = "largest_series_product"
+path = "src/largest_series_product.rs"
+
+[[bin]]
+name = "etl"
+path = "src/etl.rs"
+
+[[bin]]
+name = "two_bucket"
+path = "src/two_bucket.rs"
+
+[[bin]]
+name = "alphametics"
+path = "src/alphametics.rs"
+
+[[bin]]
+name = "luhn_from"
+path = "src/luhn_from.rs"
+
+[[bin]]
+name = "luhn_trait"
+path = "src/luhn_trait.rs"
+
+[[bin]]
+name = "spiral_matrix"
+path = "src/spiral_matrix.rs"
+
+[[bin]]
+name = "crypto_square"
+path = "src/crypto_square.rs"
+
+[[bin]]
+name = "diamond"
+path = "src/diamond.rs"
+
+[[bin]]
+name = "secret_handshake"
+path = "src/secret_handshake.rs"
+
+[[bin]]
+name = "yacht"
+path = "src/yacht.rs"
+
+[[bin]]
+name = "queen_attack"
+path = "src/queen_attack.rs"
+
+[[bin]]
+name = "robot_name"
+path = "src/robot_name.rs"
+
+[[bin]]
+name = "rail_fence_cipher"
+path = "src/rail_fence_cipher.rs"
+
+[[bin]]
+name = "atbash_cipher"
+path = "src/atbash_cipher.rs"
+
+[[bin]]
+name = "roman_numerals"
+path = "src/roman_numerals.rs"
+
+[[bin]]
+name = "rotational_cipher"
+path = "src/rotational_cipher.rs"
+
+[[bin]]
+name = "pig_latin"
+path = "src/pig_latin.rs"
+
+[[bin]]
+name = "sieve"
+path = "src/sieve.rs"
+
+[[bin]]
+name = "simple_linked_list"
+path = "src/simple_linked_list.rs"
+
+[[bin]]
+name = "saddle_points"
+path = "src/saddle_points.rs"
+
+[[bin]]
+name = "ocr_numbers"
+path = "src/ocr_numbers.rs"
+
+[[bin]]
+name = "paasio"
+path = "src/paasio.rs"
+
+[[bin]]
+name = "knapsack"
+path = "src/knapsack.rs"
+
+[[bin]]
+name = "grep"
+path = "src/grep.rs"
+
+[[bin]]
+name = "run_length_encoding"
+path = "src/run_length_encoding.rs"
+
+[[bin]]
+name = "robot_simulator"
+path = "src/robot_simulator.rs"
+
+[[bin]]
+name = "matrix"
+path = "src/matrix.rs"
+
+[[bin]]
+name = "dot_dsl"
+path = "src/dot_dsl.rs"
+
+[[bin]]
+name = "dominoes"
+path = "src/dominoes.rs"
+
+[[bin]]
+name = "macros"
+path = "src/macros.rs"
+
+[[bin]]
+name = "book_store"
+path = "src/book_store.rs"
+
+[[bin]]
+name = "fizzy"
+path = "src/fizzy.rs"
+
+[[bin]]
+name = "parallel_letter_frequency"
+path = "src/parallel_letter_frequency.rs"
+
+[[bin]]
+name = "forth"
+path = "src/forth.rs"
+
+[[bin]]
+name = "rectangles"
+path = "src/rectangles.rs"
+
+[[bin]]
+name = "circular_buffer"
+path = "src/circular_buffer.rs"
+
+[[bin]]
+name = "doubly_linked_list"
+path = "src/doubly_linked_list.rs"
+
+[[bin]]
+name = "xorcism"
+path = "src/xorcism.rs"
