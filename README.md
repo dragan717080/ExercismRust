@@ -2,7 +2,7 @@
 
 ![stars] ![repo-size]
 
-<img align="left" width="90" height="90" src="https://raw.githubusercontent.com/exercism/website-icons/main/tracks/rust.svg">
+<img align="center" width="400" height="400" src="https://raw.githubusercontent.com/exercism/website-icons/main/tracks/rust.svg">
 </div>
 
 ### Exercism Rust Course
