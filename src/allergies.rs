@@ -40,9 +40,9 @@ where
 }
 
 /**
- * Get the highest degree of 2 that's less or equal to number e.g. 52 -> 5
+ * Get the logarithm of 2 that's less or equal to number e.g. 52 -> 5
  */
-fn get_degree_of_two(n: &u32) -> u32 {
+fn get_logarithm_of_two(n: &u32) -> u32 {
     let mut degree = 0;
     let mut v = 2;
 
