@@ -52,22 +52,22 @@
 - File I/O ✓
 - Macros ✓
 - Modules and Crates ✓
-- Unit Testing
-- Unsafe Code
-- Destructuring
-- Destructuring Structs and Enums
-- Pattern Matching with Structs and Enums
-- Hashing
-- Deref Coercion
-- Const and Static Variables
-- Type Aliases
-- Associated Functions and Methods
-- Boxing and Heap Allocation
-- Rust's Memory Model
-- Interfacing with C (FFI)
-- Functional Programming Concepts (map, filter, etc.)
-- Zero-Cost Abstractions
-- Ownership in Multithreading
+- Unit Testing ✓
+- Unsafe Code ✓
+- Destructuring ✓
+- Destructuring Structs and Enums ✓
+- Pattern Matching with Structs and Enums ✓
+- Hashing ✓
+- Deref Coercion ✓
+- Const and Static Variables ✓
+- Type Aliases ✓
+- Associated Functions and Methods ✓
+- Boxing and Heap Allocation ✓
+- Rust's Memory Model ✓
+- Interfacing with C (FFI) ✓
+- Functional Programming Concepts (map, filter, etc.) ✓
+- Zero-Cost Abstractions ✓
+- Ownership in Multithreading ✓
 - Compilation and Optimization ✓
 
 [repo-size]: https://img.shields.io/github/repo-size/dragan717080/ExercismRust
